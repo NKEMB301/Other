@@ -1,7 +1,10 @@
 {
-    "mqttUrl": "tcp://pro.arcisai.io:8883",
-    "productType": "Wifi-Augentix",
-    "p2pAmbicam": "P2Pambicam_0.8",
-    "vcamAmbicam": "vcamclient-uclinux_0.9",
-    "firmware": "A_Series_0.9.9"
+        "mqttUrl":"ssl://pro.arcisai.io:8883",
+        "mqttUrl_BKP":"tcp://prongbackup.arcisai.io:1883",
+        "username":"Torque",
+        "password":"Raptor@0",
+        "productType":"Augentix",
+        "p2pAmbicam":"P2Pambicam_0.8",
+        "vcamAmbicam":"vcamclient-uclinux_0.9",
+        "firmware":"A_Series_0.10.1"
 }
