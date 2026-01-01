@@ -1,0 +1,7 @@
+{
+    "mqttUrl": "tcp://pro.arcisai.io:8883",
+    "productType": "Wifi-Augentix",
+    "p2pAmbicam": "P2Pambicam_0.8",
+    "vcamAmbicam": "vcamclient-uclinux_0.9",
+    "firmware": "A_Series_0.9.9"
+}
